@@ -12,7 +12,7 @@ idna==2.10
 joblib==0.16.0
 mysql-connector-python==8.0.21
 networkx==2.4
-numpy==1.19.0
+numpy==1.22.0
 packaging==20.4
 pandas==1.0.5
 protobuf==3.12.2
